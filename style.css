@@ -10,10 +10,12 @@ h2 {text-align: left;}
 }
 .nav {
 	min-width: 200px;
+	min-height: 10px;
 background-color: rgb(233, 214, 210);
 color: white;
 border: 2px solid black;
 }
+
 h2 {
 	margin-top: 50px;
 }
@@ -21,4 +23,60 @@ p {text-align: left;}
 p {
 	margin: 10px 100px;
 }
-div {text-align: left;}
+.audit {
+	
+	border: 2px solid black;
+	padding: 35px;
+	padding-right: 300px;
+	padding-left: 300px;
+	text-align: center;
+	color: rgb(98, 60, 187);
+
+}
+.auditText {
+	margin-top: -20.5px;
+	margin-right: 60px;
+	margin-left: 300px;
+	border: 2px solid black;
+	margin-right: 1px;
+	padding-left: 20px;
+	text-align: center
+	
+
+}
+.emptyText {
+	margin-top: -31.5px;
+	margin-right: 590px;
+	margin-left: 100px;
+	border: 2px solid black;
+	text-align: center
+}
+.Question {
+	margin-top: -11.5px;
+	margin-right: 590px;
+	margin-left: 100px;
+	border: 2px solid black;
+	text-align: center
+}
+.firstApplication {
+	margin-top: -31.5px;
+	margin-right: 400px;
+	margin-left: 300px;
+	border: 2px solid black;
+	text-align: center
+}
+.secondApplication {
+	margin-top: -32px;
+	margin-right: 200px;
+	margin-left: 490px;
+	border: 2px solid black;
+	text-align: center
+}
+.thirdApplication {
+	margin-top: -32px;
+	margin-right: 1px;
+	margin-left: 690px;
+	border: 2px solid black;
+	text-align: center
+}
+
