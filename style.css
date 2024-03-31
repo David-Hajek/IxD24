@@ -1,11 +1,15 @@
 body {
 	display: flex;
 }
-h1 {text-align: left;}
+h1 {text-align: left; font-family: Arial, Helvetica, sans-serif;
+}
 h1 {margin-left: 100px}
+img {margin-left: 100px}
 h2 {margin-left: 100px}
-h2 {text-align: left;}
+h2 {text-align: left; font-family: Arial, Helvetica, sans-serif;
+}
 .top {
+	
 	margin-top:-20px;
 }
 .nav {
@@ -14,6 +18,7 @@ h2 {text-align: left;}
 background-color: rgb(233, 214, 210);
 color: white;
 border: 2px solid black;
+font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
@@ -22,6 +27,8 @@ h2 {
 p {text-align: left;}
 p {
 	margin: 10px 100px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size:large;
 }
 
 td {
@@ -31,6 +38,8 @@ td {
 
 table
 {
+	font-family: Arial, Helvetica, sans-serif;
+	
 	margin-left: 150px;
 	height: 50px;
 }
@@ -39,4 +48,8 @@ table
 {
 	margin-left: 450px;
 }
-
+.imageright
+{
+	margin-left: 650px;
+	margin-top: -760px;
+}
