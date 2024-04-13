@@ -1,0 +1,130 @@
+<html>
+  <link rel="stylesheet" type="text/css" href="./style.css" />
+<head>
+  <title>IXD Project</title>
+</head>
+<body>
+<div class ="nav">
+ <h3> Contents:</h3>
+  <ol>
+  <li><a href="index.html">IXD Project 2024</a></li>
+  <li><a href="other.html">Competitive Audit</a></body></li>
+  <li><a href="Wireframe.html">Wireframe</a></body></li>
+  <li><a href="Figma.html">Figma Prototype</a></body></li>
+  <li><a href="Usability">Usability Testing</a></body></li>
+ </ol>
+</div>
+<div>
+
+<h1 class = "Upper">Usability testing</h1>
+<h1 class = "top">User Task</h1>
+
+
+<h2> Task: Choose an assignment and accept it.  </h2>
+
+
+<table  bgcolor="#6495ED" width="1000" >
+  <td width="100"><font color = white>Participant's name: Pavel Dobíáš</td>
+<table bgcolor="grey" width="1000">
+<tr bgcolor="white" width="1000">
+  <td width ="650">Task</td>
+  <td width ="650">Click Path</td>
+  <td width ="650">Observations</td>
+  <td width ="650">Quotes</td>
+  <td width ="650">Task Completion</td>
+</tr>
+<tr bgcolor="#DCDCDC" width="1000">
+    <td width ="650">"Choose an assignment and accept it"</td>
+    <td width ="650">Record what path the participant took to complete the task</td>
+    <td width ="650">Note down behaviors, opinions, and attitudes along with any errors, issues or areas of confusion.
+    </td>
+    <td width ="650">Note any significant quotes(positive or negative)</td>
+    <td width ="650">Choose if the task was:<br><br> 1. - Easy to complete<br> 2. -Completed but with difficulty<br>3. - Not completeed</td>
+  </tr>
+<tr bgcolor="#FFFAF0" width="1000">
+    <td width ="650">"Could you use the app to browse an assignment and accept it please?"</td>
+    <td width ="650">Login>main screen> choose a task> main screen> choose a task> choose a professional>read about task> choose a professional>read about task> choose a professional>accept assignment>assignment sent to mail>homepage</td>
+    <td width ="650">- Participant tried to log in<br><br> - Participant used all the features of the app, such as scrolling and browsing the professionals.<br><br>
+        -Participant also went with alot of back and fourth through the app, thorougly browsin through the professionals until he found a level that suited him and interested him.
+    </td>
+    <td width ="650">"Very nice"<br><br>"It's really good"</td>
+    <td width ="650">1 - Easy to complete</td>
+  </tr>
+  <tr bgcolor="#FFFAF0" width="1000">>
+    <table  bgcolor="#6495ED" width="1000" >
+        <td width="100"><font color = white>Additional notes: The user was very happy and complimented on how simple and easy it was to use and complete the task. </td>
+      <table bgcolor="grey" width="1000">
+  </tr>
+  
+  
+  <br></br>
+  <table  bgcolor="#6495ED" width="1000" >
+    <td width="100"><font color = white>Participant's name: Eliška Vrzalová</td>
+  <table bgcolor="grey" width="1000">
+  <tr bgcolor="white" width="1000">
+    <td width ="650">Task</td>
+    <td width ="650">Click Path</td>
+    <td width ="650">Observations</td>
+    <td width ="650">Quotes</td>
+    <td width ="650">Task Completion</td>
+  </tr>
+  <tr bgcolor="#DCDCDC" width="1000">
+      <td width ="650">"Choose an assignment and accept it"</td>
+      <td width ="650">Record what path the participant took to complete the task</td>
+      <td width ="650">Note down behaviors, opinions, and attitudes along with any errors, issues or areas of confusion.
+      </td>
+      <td width ="650">Note any significant quotes(positive or negative)</td>
+      <td width ="650">Choose if the task was:<br><br> 1. - Easy to complete<br> 2. -Completed but with difficulty<br>3. - Not completeed</td>
+    </tr>
+  <tr bgcolor="#FFFAF0" width="1000">
+      <td width ="650">"Could you use the app to browse an assignment and accept it please?"</td>
+      <td width ="650">Login>main screen>choose field of study>chose a field>-chose a pro>read about pro>confirmed>accept assignment>assignment sent via email</td>
+      <td width ="650">- Didn’t use the scroll feature much, only where there was a bar to scroll visible<br><br>
+        -Mostly chose the first option without looking at others, probably because there was no real indication apart from seeing a bit of the next thing to click by scrolling.
+       
+      </td>
+      <td width ="650">"Very understandable, it was not confusing, wasn’t lost"<br>
+      <td width ="650">1 - Completed without issues, understandable and not confusing.</td>
+    </tr>
+    <tr bgcolor="#FFFAF0" width="1000">
+      <table  bgcolor="#6495ED" width="1000" >
+          <td width="100"><font color = white>Additional notes: None, the user had no issue with the task whatsoever</td>
+        <table bgcolor="grey" width="1000">
+    </tr>
+   
+   
+   
+    <br></br>
+    <table  bgcolor="#6495ED" width="1000" >
+      <td width="100"><font color = white>Participant's name: Elisabeth Sýkorová</td>
+    <table bgcolor="grey" width="1000">
+    <tr bgcolor="white" width="1000">
+      <td width ="650">Task</td>
+      <td width ="650">Click Path</td>
+      <td width ="650">Observations</td>
+      <td width ="650">Quotes</td>
+      <td width ="650">Task Completion</td>
+    </tr>
+    <tr bgcolor="#DCDCDC" width="1000">
+        <td width ="650">"Choose an assignment and accept it"</td>
+        <td width ="650">Record what path the participant took to complete the task</td>
+        <td width ="650">Note down behaviors, opinions, and attitudes along with any errors, issues or areas of confusion.
+        </td>
+        <td width ="650">Note any significant quotes(positive or negative)</td>
+        <td width ="650">Choose if the task was:<br><br> 1. - Easy to complete<br> 2. -Completed but with difficulty<br>3. - Not completeed</td>
+      </tr>
+    <tr bgcolor="#FFFAF0" width="1000">
+        <td width ="650">"Could you use the app to browse an assignment and accept it please?"</td>
+        <td width ="650">Login>main screen> choose a field of study>choose a pro>chose a task>accepted task> assignment sent via email>Homepage</td>
+        <td width ="650">- Used scrolling extensively to choose a professional that suited her, using all the features of the app. 
+        </td>
+        <td width ="650">“Oh my god it swipes”<br><br>
+            “How long did you work on this”<br><br>
+            “I need Jrka”<br><br>
+            <br>
+        <td width ="650">1 - Completed without issues, understandable and not confusing.</td>
+
+        <table  bgcolor="#6495ED" width="1000" >
+            <td width="100"><font color = white>Additional notes: None, the user had no issue with the task whatsoever</td>
+          <table bgcolor="grey" width="1000">
+      </tr>
